@@ -12,9 +12,7 @@ An iOS app with Dashboard with profiles of various individuals for matchmaking.
 
 ## Previews
 
-<img src="assets/Home.png" alt="Home" width="200" height="450">
-<img src="assets/select.png" alt="select" width="200" height="450">
-<img src="assets/detail.png" alt="detail" width="200" height="450">
+<img src="assets/Home.png" alt="Home" width="200" height="450"> <img src="assets/select.png" alt="select" width="200" height="450"> <img src="assets/detail.png" alt="detail" width="200" height="450">
 
 ## Getting Started
 
